@@ -1,8 +1,8 @@
 class MoleAi < Formula
   desc "AI-enhanced macOS system maintenance CLI"
   homepage "https://github.com/xronocode/mole-ai"
-  url "https://github.com/xronocode/mole-ai/archive/refs/tags/${TAG}.tar.gz"
-  sha256 "${SOURCE_SHA}"
+  url "https://github.com/xronocode/mole-ai/archive/refs/tags/v1.37.0-ai.1.tar.gz"
+  sha256 "e80f62429d29d07f127d1a431dd177628614a5b3a354bb9b8e8b4123cf6d9265"
   license "MIT"
 
   depends_on "bash"
