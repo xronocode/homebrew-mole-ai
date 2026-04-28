@@ -24,3 +24,4 @@ class MoleAi < Formula
     assert_match "mole-ai", shell_output("#{bin}/mo --version 2>&1", 0)
   end
 end
+# test3
